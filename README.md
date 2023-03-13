@@ -28,6 +28,3 @@ It's kinda janky tbh, but it was okay for my needs at the time. There's a BUNCH 
 
 - It requires TextMeshPro. You will be prompted to import it if you don't have in the project.
 - I used Unity's animation solution for the fading so there's the least dependency possible for a package, but you could change to DOTween's DOFade or something alike.
-
-### Known Limitations ###
-- You can't call another modal window from the options since the architecture doesn't allow (I told you it was janky)
